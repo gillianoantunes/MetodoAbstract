@@ -64,6 +64,7 @@ public class Program {
 					 " Área: " + String.format("%.2f", f.area())+ "\n");
 			
 		}
+		sc.close();
 	}
 
 }
